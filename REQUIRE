@@ -2,5 +2,3 @@ julia 0.5
 BinDeps
 Distances
 Compat 0.17
-@osx Homebrew
-WinRPM
